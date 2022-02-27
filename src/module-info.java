@@ -1,0 +1,2 @@
+module sorting2 {
+}
